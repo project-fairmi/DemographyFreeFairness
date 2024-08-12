@@ -1,0 +1,14 @@
+name: fairness
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - ipykernel
+  - matplotlib
+  - tensorflow
+  - python=3.11
+  - torchvision
+  - jupyterlab
+  - scikit-learn
+  - seaborn
+prefix: /home/dilermando.queiroz/miniconda3/envs/fairness
